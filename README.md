@@ -19,3 +19,6 @@ Selecionar o arquivo de acordo com seu sistema operacional. </li>
   <li>com o projeto importado, no canto esquerdo abra a pasta "source packages", depois a pasta com nome "desafio" e por fim o arquivo com extensão.java.</li>
 </ol>
 </ol>
+# Autor
+Rafael Silva Lourenço
+
