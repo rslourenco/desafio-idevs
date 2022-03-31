@@ -1,7 +1,8 @@
 # Sobre o projeto
 O projeto foi feito para participar do Programa de Formação DEV da IDevS. Nele são feitos alguns algoritmos para cumprir os desafios pedidos.
 # Tecnologias utilizadas
-Java
+Linguagem Java
+Programas: Java Development Kit e NetBeans
 # Como executar o projeto
 <ol>
 <li> Baixar e instalar o Java de Java Development Kit no site da Oracle pelo link https://www.oracle.com/java/technologies/downloads/. </li>
