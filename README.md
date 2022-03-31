@@ -16,6 +16,6 @@ Selecionar o arquivo de acordo com seu sistema operacional. </li>
   <li>depois clique em "Open project"; </li>
   <li>selecione o endereço da pasta com o nome "desafio"; </li>
   <li>clique no botão "Open Project"; </li>
-  <li>com o projeto importado, no canto esquerdo abra a pasta "source packages", depois a pasta com nome "desafio" e por fim o arquivo .java.</li>
+  <li>com o projeto importado, no canto esquerdo abra a pasta "source packages", depois a pasta com nome "desafio" e por fim o arquivo com extensão.java.</li>
 </ol>
 </ol>
