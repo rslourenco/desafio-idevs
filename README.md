@@ -1,7 +1,7 @@
 # Sobre o projeto
 O projeto foi feito para participar do Programa de Formação DEV da IDevS. Nele são feitos alguns algoritmos para cumprir os desafios pedidos.
 # Tecnologias utilizadas
-Linguagem Java
+Linguagem Java<br>
 Programas: Java Development Kit e NetBeans
 # Como executar o projeto
 <ol>
